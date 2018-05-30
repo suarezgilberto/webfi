@@ -1,5 +1,5 @@
 public class javag{
-int g = 0;
+int g = 230;
 
 
 
